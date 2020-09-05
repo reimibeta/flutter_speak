@@ -16,7 +16,7 @@ dependencies:
   flutter_tts_plugin:
     git:
       url: git://github.com/reimibeta/flutter_tts_plugin.git
-      ref: fcd9017ee5715a4193656ff1bb4cf211d83fde30
+      ref: 5045c1ef231f132d09ff908db72c5ec09327d75e
 
 dev_dependencies:
   flutter_test:
