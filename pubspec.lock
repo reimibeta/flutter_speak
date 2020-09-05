@@ -60,18 +60,15 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_tts:
+  flutter_tts_plugin:
     dependency: "direct main"
     description:
-      name: flutter_tts
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.2.7"
-  flutter_web_plugins:
-    dependency: transitive
-    description: flutter
-    source: sdk
-    version: "0.0.0"
+      path: "."
+      ref: "95f4cfbdb754d3d4fa902babe20868d12d75ccdc"
+      resolved-ref: "95f4cfbdb754d3d4fa902babe20868d12d75ccdc"
+      url: "git://github.com/reimibeta/flutter_tts_plugin.git"
+    source: git
+    version: "0.0.1"
   matcher:
     dependency: transitive
     description:
@@ -156,4 +153,4 @@ packages:
     version: "2.0.8"
 sdks:
   dart: ">=2.9.0-14.0.dev <3.0.0"
-  flutter: ">=1.17.0 <2.0.0"
+  flutter: ">=1.20.0 <2.0.0"

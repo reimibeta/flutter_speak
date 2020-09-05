@@ -12,7 +12,11 @@ dependencies:
   flutter:
     sdk: flutter
 
-  flutter_tts: ^1.2.7
+#  flutter_tts: ^1.2.7
+  flutter_tts_plugin:
+    git:
+      url: git://github.com/reimibeta/flutter_tts_plugin.git
+      ref: 95f4cfbdb754d3d4fa902babe20868d12d75ccdc
 
 dev_dependencies:
   flutter_test:
