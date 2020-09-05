@@ -1,7 +1,7 @@
 library flutter_speak;
 
 import 'package:flutter/material.dart';
-import 'package:flutter_tts/flutter_tts.dart';
+import 'package:flutter_tts_plugin/flutter_tts_plugin.dart';
 
 class FlutterSpeak {
 
