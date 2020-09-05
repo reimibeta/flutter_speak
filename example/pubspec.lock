@@ -78,8 +78,8 @@ packages:
     dependency: transitive
     description:
       path: "."
-      ref: "95f4cfbdb754d3d4fa902babe20868d12d75ccdc"
-      resolved-ref: "95f4cfbdb754d3d4fa902babe20868d12d75ccdc"
+      ref: fcd9017ee5715a4193656ff1bb4cf211d83fde30
+      resolved-ref: fcd9017ee5715a4193656ff1bb4cf211d83fde30
       url: "git://github.com/reimibeta/flutter_tts_plugin.git"
     source: git
     version: "0.0.1"
